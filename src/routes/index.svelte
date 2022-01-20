@@ -45,10 +45,13 @@
             Clicked {count}
             {count > 1 ? 'times' : 'time'}
         </span>
-    </button>
+    </button
+    >
 
-    <span> Click on the text to learn more about each technology </span>
-</div>
+    <span> Click on the text to learn more about each technology </span
+        >
+</div
+>
 
 <style lang="postcss">
     #sveltekit {
